@@ -24,4 +24,4 @@ Credits:
   KeyWest - Screenshots / Gameplay footage.
   ViktorMor - Screenshots.
   
-  I only made it possible to load this map on a FiveM FXserver.
+  I only fixed some "Poly edge" & "Physics validation failed" errors for the props presesnting these issues and made it possible to load this map on a FiveM FXserver.
