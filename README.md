@@ -14,7 +14,7 @@ Important:
 
 Credits:
 
-  - Mishka Volkav - Convertsion.
+  - Mishka Volkav - Conversion.
   - Aleksey Kostenko - Support and help.
   - Roman Azotov A.K.A Azot - Promoted this project on YouTube / support.
   - TheInsaneKiller - Promoted this project.
