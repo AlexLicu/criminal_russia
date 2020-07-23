@@ -1,4 +1,4 @@
-# criminal_russia
+# criminal_russia [Beta]
 Criminal Russia GTA 5 map mod converted for use on FiveM.
 Tested on FXserver Linux build 2683 and FXserver Windows build 2683.
 
@@ -10,6 +10,7 @@ Important:
   1) In GTA 5's advanced video settings, set "Extended distance scaling" to medium or higher, or else some props will not load.
   2) If you encounter any frame drops/lag/freezes you should modify the LOD distance of the props using OpenIV/Codewalker or any text editor.
   3) This version only features 1 LOD and little to none vegetation.
+  4) Some vegetation textures have no alpha.
 
 Credits:
   Mishka Volkav - Convertsion.
