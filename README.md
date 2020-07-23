@@ -13,16 +13,17 @@ Important:
   4) Some vegetation textures have no alpha.
 
 Credits:
-  Mishka Volkav - Convertsion.
-  Aleksey Kostenko - Support and help.
-  Roman Azotov A.K.A Azot - Promoted this project on YouTube / support.
-  TheInsaneKiller - Promoted this project.
-  Dekurwinator - Map DLC/support and help.
-  CR Team - Map.
-  Prosvet Team - Map.
-  GTAMaps Team - Map.
-  Russian Reality Team - Map.
-  KeyWest - Screenshots / Gameplay footage.
-  ViktorMor - Screenshots.
+
+  - Mishka Volkav - Convertsion.
+  - Aleksey Kostenko - Support and help.
+  - Roman Azotov A.K.A Azot - Promoted this project on YouTube / support.
+  - TheInsaneKiller - Promoted this project.
+  - Dekurwinator - Map DLC/support and help.
+  - CR Team - Map.
+  - Prosvet Team - Map.
+  - GTAMaps Team - Map.
+  - Russian Reality Team - Map.
+  - KeyWest - Screenshots / Gameplay footage.
+  - ViktorMor - Screenshots.
   
   I only fixed some "Poly edge" & "Physics validation failed" errors for the props presesnting these issues and made it possible to load this map on a FiveM FXserver.
